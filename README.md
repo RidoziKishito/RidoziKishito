@@ -88,7 +88,7 @@
 *   **Stack:** PyTorch, Pygame, OpenAI Gym concepts
 *   Engineered a Flappy Bird game environment coupled with a Deep Q-Network (DQN) agent learning navigation policies directly from gameplay states.
 
-#### 🔊 [Industrial Acoustic Anomaly Detection](https://github.com/RidoziKishito/VIVOS-DEMAND-Speech-Enhancement)
+#### 🔊 [Industrial Acoustic Anomaly Detection](https://github.com/RidoziKishito/gmm-acoustic-anomaly-detection)
 *   **Stack:** Python, GMM/DAGMM, Flask, MIMII Dataset
 *   Unsupervised anomaly detection pipeline designed to flag operational failures in industrial pumps from acoustic signals, accompanied by an interactive Flask web demo.
 
